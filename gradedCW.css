@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+}
+#head{
+    text-align: center;
+}
+header{
+    background-color: dimgray;
+    color: white;
+    clear: both
+}
+#section{
+    text-align: center;
+}
+section{
+    background-color: dimgray;
+    color: white;
+    float:left;
+    width: 45%;
+    border: 3px solid #73AD21;
+    padding: 5px;
+    }
+#aside{
+    text-align: center;
+}
+aside{
+    background-color: dimgray;
+    color:white;
+    float:right;
+    width: 45%;
+    padding: 5px;
+
+}
+#footer{
+    text-align: center;
+}
+footer{
+    background-color: dimgray;
+    color: white;
+    clear: both
+    
+
+}
